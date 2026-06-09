@@ -1,5 +1,7 @@
-# backend/analytics.py
+
 from pymongo import MongoClient
+
+
 
 def generate_report():
     client = MongoClient("mongodb://localhost:27017/")
