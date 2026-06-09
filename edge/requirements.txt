@@ -1,1 +1,4 @@
 paho-mqtt
+streamlit
+pymongo
+dnspython
